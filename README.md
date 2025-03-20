@@ -1,2 +1,1 @@
-# thirtysixstudio
-for DEVOPs hosting
+
